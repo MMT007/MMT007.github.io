@@ -27,7 +27,7 @@ h1, h2{
     text-align: center;
 }
 
-.links a {
+.links a img {
     height: 44px;
     width: 44px;
     border-radius: 10px;
