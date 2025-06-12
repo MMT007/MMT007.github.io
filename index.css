@@ -28,7 +28,8 @@ h1, h2{
 }
 
 .links a {
-    size: 44px 44px;
+    height: 44px;
+    width: 44px;
     border-radius: 10px;
 
     margin: auto;
